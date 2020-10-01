@@ -4,3 +4,6 @@ hướng dẫn sử dụng
 
 python dnscan.py -h
 
+
+
+
